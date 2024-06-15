@@ -1,1 +1,6 @@
-Arquivo de teste.
+#Arquivo de teste.
+#Segunda alteração neste documento.
+#Para adcionar varios arquivos ao mesmo tempo, basta digitar:
+git add .
+#Ou um a um:
+git add "o arquivo desejado" -m "descrição do commit"
