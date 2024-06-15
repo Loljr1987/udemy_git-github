@@ -4,3 +4,5 @@
 git add .
 #Ou um a um:
 git add "o arquivo desejado" -m "descrição do commit"
+#De maneira mais clara
+git commit -a -m "mais descrição dlo commit
